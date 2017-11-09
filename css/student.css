@@ -1,0 +1,98 @@
+.body1{
+		
+    width: 75%;
+		margin-left:12.5%;
+		background-color: white;
+		 
+
+	}
+	.motion{
+		background-color:#E3DEF0; 
+		border-radius: 5px;
+	}
+	
+
+
+.content{
+  float: left;
+  margin-top: -28px;
+
+}
+
+
+.topcontent{
+  background-color: white;
+  border-radius:5px;
+      
+}
+
+
+
+
+.topcontent nav{margin-top:10px;
+}
+.topcontent a{text-decoration:none;
+}
+
+.topcontent ul{list-style:none;
+}
+
+.topcontent nav{background-color:black;
+           
+          height:440px;
+      border-radius:5px;
+      -moz-border-radius:5px;
+      -webkit-border-radius:5px;
+}
+
+.topcontent nav a:link, .topcontent nav a:visited{color:white;
+                                       display:block;
+                     padding:10px 25px; 
+}
+
+.topcontent nav a:hover, .topcontent nav a:active{background-color:red;
+                                      text-shadow:none;   
+
+}
+
+.topcontent nav ul li a{ border-radius:5px;
+      -moz-border-radius:5px;
+      -webkit-border-radius:5px;
+}
+.topcontent nav li {margin-left:-20px;
+  border-bottom: 3px solid yellow;
+ 
+}
+
+
+
+.bottomcontent{
+  background-color:black ;
+  border-radius:5px;
+      padding: 3% 5%;
+      margin-top: 2px; 
+      height: 180px;
+      color: white;
+      text-align: center;
+      font-size: 18px;
+}
+
+
+.cent{
+	float: left;
+	margin-left: -20px;
+	margin-top: -18px;
+	width: 75.5%;
+}
+#aa{
+	width: 100%;
+	float: center;
+  margin-left: 40px;
+  margin-top: 20px;
+
+}
+
+#bb{
+  margin-left: 15px;
+  
+}

@@ -1,0 +1,61 @@
+.body{
+    width: 85%;
+        margin-left:7.5%;
+        background-color:red ;
+        background: url("../images/bg_page.jpg") repeat scroll 0% 0% #175E7F;;
+       
+}
+    #brand-image
+    {
+        height: 100px;
+        float: left;
+    }
+    #top
+    {
+        background-color: black;
+        border-radius: 5px;
+        color: yellow;
+    }
+    #top h1
+    {
+        float: left;
+
+    }
+    #top a
+    {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        float: right;
+
+    }
+    
+    #myCarousel
+    {
+        margin-top: -20px;
+    }
+    
+    #mid{
+        margin-top: 2px;
+        width: 1376px;
+    }
+    #ls
+    {
+        width: 114%;
+    }
+
+
+
+    @media only screen and (min-width: 150px) and (max-width: 1150px){
+        .body{
+            width: 100%;
+            margin-left: -3px;
+        }
+  #ls
+  {
+  width: 100%;
+  }
+  #rs
+  {
+    
+    margin-top: -18px;
+  }
